@@ -5,3 +5,5 @@
 ## lessons
 
 ## 1 july 2021 - lesson 1-2
+
+## 7 july 2021 - lesson 3
